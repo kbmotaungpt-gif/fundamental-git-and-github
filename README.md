@@ -1,2 +1,2 @@
-# fundtal-git-and-github
+# funtal-git-and-github
 lesson git and github
